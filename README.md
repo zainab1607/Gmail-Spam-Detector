@@ -71,6 +71,6 @@ The project also addresses challenges discussed in the research paper *"Digital 
 *   **Name**: Zainab Rafique
 *   **Institute**: Karachi Institute of Economics and Technology (KIET)
 
-## **Conclusion
+## **Conclusion**
 This project demonstrates the effective use of AI in cybersecurity to provide real-time protection against phishing attacks, enhancing the overall security of daily email communicatiothe overall security of daily email communication.
 
