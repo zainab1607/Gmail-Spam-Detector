@@ -1,3 +1,10 @@
+# **Team Members/Collaborators**
+Daniya Mehmood
+Zainab Rafique
+
+
+
+
 # Gmail-Spam-Detector
 AI-powered Gmail phishing detector extension that scans email content, verifies senders, and flags suspicious or malicious emails.
 Here is the professionally formatted **README.md** for your GitHub repository. This version is tailored specifically for your profile, highlighting your role in the project while maintaining all the technical and academic details.
