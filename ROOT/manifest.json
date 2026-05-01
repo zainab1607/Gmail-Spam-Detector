@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Gmail Scam Detector",
+  "version": "1.0",
+  "description": "Scans open emails in Gmail for potential scam indicators using AI.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://mail.google.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
